@@ -1,0 +1,14 @@
+{
+  "name": "hw4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index"
+  },
+  "author": "birght",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
